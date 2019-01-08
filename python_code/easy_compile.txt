@@ -1,0 +1,3 @@
+C:\Python36\python.exe C:\Users\Alllan\Desktop\SENG265_SUMMER_2018\a2\a2_test.py tests\in01.txt > out01.txt
+
+FC tests\out01.txt out01.txt
